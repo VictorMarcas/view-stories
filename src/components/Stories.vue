@@ -99,7 +99,7 @@
       </div>
       <!-- controls -->
       <div
-        class="flex z-[3] items-center pointer-events-none justify-between absolute transform top-1/2 -translate-y-1/2 -inset-x-10"
+        class="max-md:hidden flex z-[3] items-center pointer-events-none justify-between absolute transform top-1/2 -translate-y-1/2 -inset-x-10"
       >
         <button
           type="button"

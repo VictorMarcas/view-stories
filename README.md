@@ -1,6 +1,6 @@
 # View Stories
 
-Project construido para visualizar histórias de artistas.
+Project built to visualize artists' stories. Built in Vue2, TailwindCSS, Hammerjs and AnimateJs.
 
 ## Project Setup
 
